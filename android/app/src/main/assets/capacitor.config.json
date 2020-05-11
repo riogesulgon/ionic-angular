@@ -1,0 +1,6 @@
+{
+  "appId": "com.ionic.recipe",
+  "appName": "recipes",
+  "webDir": "www",
+  "npmClient": "npm"
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "com.ionic.recipe",
+  "appName": "recipes",
+  "webDir": "www",
+  "npmClient": "npm",
+  "linuxAndroidStudioPath": "/opt/android-studio/bin/studio.sh"
+}
